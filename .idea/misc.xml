@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_python.xml" value="0.26153846153846155" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="app/src/main/res/layout/category_item.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/course_item.xml" value="0.23822463768115942" />
       </map>
     </option>
   </component>
